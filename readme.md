@@ -79,7 +79,7 @@ Solidity 스마트컨트랙트와의 연동을 고려해 설계되었습니다.
 
 🔗 스마트컨트랙트 코드: (https://sepolia.arbiscan.io/address/0xa83a9bbd6ff325827074a54ea6fb86fb40ceb536#code))
 
-## 화면
+##  💻 화면
 
 <details>
 <summary>메인 화면</summary>
